@@ -6,6 +6,8 @@ A front-end clone of the Amazon homepage built using HTML and CSS.
 
 ## 🚀 Project Overview
 
+
+![Amazon Clone Screenshot](amazon-clone.png)
 This project is a static clone of the Amazon homepage UI.
 It was built as part of my web development learning journey.
 
